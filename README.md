@@ -28,7 +28,7 @@ status="online"
 ## `stack`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,go,js,ts,java,cpp,cs,docker,kubernetes,linux,nginx,postgres,redis,git,githubactions,ansible,aws,azure,grafana,prometheus&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,go,js,ts,html,css,fastapi,docker,kubernetes,linux,arch,ubuntu,debian,kali,nginx,postgres,mysql,sqlite,redis,elasticsearch,git,githubactions,ansible,aws,azure,grafana,prometheus,androidstudio,arduino,selenium,cloudflare,cmake,bots,django,graphql,ai,idea,md,nodejs,npm,obsidian,opencv,pycharm,pytorch,regex,windows&perline=9" />
 </div>
 
 ---
@@ -50,10 +50,6 @@ status="online"
 
 ## `stats`
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=scintilla083&show_icons=true&theme=merko&hide_border=true&bg_color=000000&title_color=39FF14&text_color=C8FFC8&icon_color=39FF14" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scintilla083&layout=compact&theme=merko&hide_border=true&bg_color=000000&title_color=39FF14&text_color=C8FFC8" />
-</div>
 
 <div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=scintilla083&theme=merko&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
