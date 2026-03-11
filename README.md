@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/PROFILE-TECHNO_GREEN-0d1117?style=for-the-badge&logo=github&logoColor=2E7D32&labelColor=000000&color=2E7D32" />
+
 <img src="https://img.shields.io/badge/STACK-MULTIROLE-0d1117?style=for-the-badge&logo=hackaday&logoColor=2E7D32&labelColor=000000&color=2E7D32" />
 <img src="https://img.shields.io/badge/FOCUS-AUTOMATION%20%7C%20INFRA%20%7C%20SECURITY-0d1117?style=for-the-badge&logo=gnubash&logoColor=2E7D32&labelColor=000000&color=2E7D32" />
 
@@ -18,15 +18,13 @@
 
 ```bash
 role="everything everywhere all at once"
-mode="build / break / deploy / automate"
-style="techno green"
 status="online"
 ```
 
 ---
 
 ## `stack`
-
+;))
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,powershell,go,js,ts,html,css,fastapi,docker,kubernetes,linux,arch,ubuntu,debian,kali,nginx,postgres,mysql,sqlite,redis,elasticsearch,git,githubactions,ansible,aws,azure,grafana,prometheus,androidstudio,arduino,selenium,cloudflare,cmake,bots,django,graphql,ai,idea,md,nodejs,npm,obsidian,opencv,pycharm,pytorch,regex,windows&perline=9" />
 </div>
@@ -74,11 +72,8 @@ status="online"
 <div align="center">
 
 ```text
-[ SYSTEM ONLINE ]
-[ BUILDING ]
-[ TESTING ]
-[ BREAKING ]
-[ FIXING ]
+[ ================================ ]
+
 ```
 
 </div>
